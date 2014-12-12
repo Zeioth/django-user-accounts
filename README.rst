@@ -1,23 +1,14 @@
 ====================
 django-user-accounts
 ====================
+.. image:: https://img.shields.io/pypi/dm/django-dual-authentication.svg
+    :target:  https://pypi.python.org/pypi/django-dual-authentication/
 
-*user accounts for Django*
-
-.. image:: https://img.shields.io/travis/pinax/django-user-accounts.svg
-    :target: https://travis-ci.org/pinax/django-user-accounts
-
-.. image:: https://img.shields.io/coveralls/pinax/django-user-accounts.svg
-    :target: https://coveralls.io/r/pinax/django-user-accounts
-
-.. image:: https://img.shields.io/pypi/dm/django-user-accounts.svg
-    :target:  https://pypi.python.org/pypi/django-user-accounts/
-
-.. image:: https://img.shields.io/pypi/v/django-user-accounts.svg
-    :target:  https://pypi.python.org/pypi/django-user-accounts/
+.. image:: https://img.shields.io/pypi/v/django-dual-authentication.svg
+    :target:  https://pypi.python.org/pypi/django-dual-authentication/
 
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
-    :target:  https://pypi.python.org/pypi/django-user-accounts/
+    :target:  https://pypi.python.org/pypi/django-dual-authentication/
 
 
 Provides a Django project with a very extensible infrastructure for dealing
